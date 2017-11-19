@@ -1,12 +1,8 @@
-Scotch Box With Phpmyadmin
+Color Guessing Game | Javascript
 ==========
 
-This is a  one on one copy of Scotchbox. The only difference is that it installs phpmyadmin on the server automatically.
+Choose easy or hard setting and guess the rgb color code
 
-Check out the official docs at: https://box.scotch.io
+Check out the official docs at: color-guessing.scharvey.com
 
 ==========
-
-Additions to index.php
- + Scanning for files 
- + Shortcut to phpmyadmin location 
